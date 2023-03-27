@@ -10,7 +10,7 @@ Almighty!
 C is fun! Segfault is even more fun! :D  
 The largest project I built in C was [mastermind](https://github.com/Massinja/mastermind).  
 There are also my simplistic implementations of [printf](https://github.com/Massinja/printf) function and [cat](https://github.com/Massinja/my_cat) command.  
-You can build the [christmas_tree](https://github.com/Massinja/christmas_tree) or check some yacky colutions to the exercises I practised on at the beginning [See_yacky_solutions](https://github.com/Massinja/c_practice_exercises)
+You can build the [christmas_tree](https://github.com/Massinja/christmas_tree) or [C__my_yacky_solutions](https://github.com/Massinja/c_practice_exercises)  to the exercises I practised on at the beginning.
 
 ❤️ C forces me to always check my inputs, think about types and memory management.
 It makes me think about performance and optimization, gives me more control and precision over my operations than higher level languages do. Glancing under the hood is fun.
