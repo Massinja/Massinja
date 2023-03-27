@@ -3,6 +3,8 @@ I am working my way into programming.
 
 ## My projects and first impressions about programming laguages:  
 
+<div align="center"> My latest project - Users App https://github.com/Massinja/users_app in Ruby. </div>
+
 ### Bash   
 Almighty!
 
@@ -23,7 +25,7 @@ Check my very first programming project [bookstore](https://github.com/Massinja/
 ### Ruby
 There are many ways of doing many things! And while a lot of things might seem interchangeable, they are not, there are subtle differences. 
 Not only is Ruby beginner-friendly, but it is also bug friendly, I think...  
-Check my really cool project [Users_app](https://github.com/Massinja/users_app) in Ruby.
+Check my Ruby project [Users_app](https://github.com/Massinja/users_app)
 <div align="center">
     <img width="20%" src="https://user-images.githubusercontent.com/84927906/227746913-885fdabb-0df6-4dba-b2eb-c3bb4dedaa15.jpg">
 </div>
