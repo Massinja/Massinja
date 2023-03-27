@@ -13,12 +13,12 @@ There are also my simplistic implementations of [printf](https://github.com/Mass
 You can build the [christmas_tree](https://github.com/Massinja/christmas_tree) or [C__my_yacky_solutions](https://github.com/Massinja/c_practice_exercises)  to the exercises I practised on at the beginning.
 
 ❤️ C forces me to always check my inputs, think about types and memory management.
-It makes me think about performance and optimization, gives me more control and precision over my operations than higher level languages do. Glancing under the hood is fun.
+It makes me think about performance and optimization, gives me more control and precision over my operations than higher level languages do. Taking a look under the hood is fun.
 
 ### Python    
 My first "Hello World" was in Python. And now the World is overtaken by Python, sadly. :D  
 Indentation should not be an error, and it needs some respect for types, amongst other things.  
-Check my very first serious programming project [bookstore](https://github.com/Massinja/bookstore) and my first [backend](https://github.com/Massinja/first_backend_flask) project in flask.
+Check my very first programming project [bookstore](https://github.com/Massinja/bookstore) and my first [backend](https://github.com/Massinja/first_backend_flask) backend in flask.
 
 ### Ruby
 There are many ways of doing many things! And while a lot of things might seem interchangeable, they are not, there are subtle differences. 
