@@ -3,8 +3,6 @@ I am working my way into programming.
 
 ## My projects and first impressions about programming laguages:  
 
-<div align="center"> My latest project - Users App https://github.com/Massinja/users_app in Ruby. </div>
-
 ### Bash   
 Almighty!
 
@@ -20,11 +18,11 @@ It makes me think about performance and optimization, gives me more control and 
 ### Python    
 My first "Hello World" was in Python. And now the World is overtaken by Python, sadly. :D  
 Indentation should not be an error, and it needs some respect for types, amongst other things.  
-Check my very first programming project [bookstore](https://github.com/Massinja/bookstore) and my first [backend](https://github.com/Massinja/first_backend_flask) backend in flask.
+Check my very first programming project [bookstore](https://github.com/Massinja/bookstore) and my first [backend](https://github.com/Massinja/first_backend_flask) in flask.
 
 ### Ruby
-There are many ways of doing many things! And while a lot of things might seem interchangeable, they are not, there are subtle differences. 
-Not only is Ruby beginner-friendly, but it is also bug friendly, I think...  
+There are many ways of doing many things in Ruby! And while a lot of things might seem interchangeable, they are not. There are subtle differences. 
+That's why noot only is Ruby beginner-friendly, but it is also bug friendly, I think...  
 Check my Ruby project [Users_app](https://github.com/Massinja/users_app)
 <div align="center">
     <img width="20%" src="https://user-images.githubusercontent.com/84927906/227746913-885fdabb-0df6-4dba-b2eb-c3bb4dedaa15.jpg">
@@ -34,13 +32,14 @@ Check my Ruby project [Users_app](https://github.com/Massinja/users_app)
 </div>
 
 ### Go
-Seems very promising to me. Future back end projects are coming!
+Seems very promising to me. Future back end projects and command-line tools are coming!
 
 ### Javascript  
 "Javascript is like vegetables, you have to eat them" - Gaetan Juvin  
 Check [bouncing_box](https://github.com/Massinja/bouncing_box)  
-Typescript is a lesser evil that I am willing to try. Projects are on their way!
-<div>
-    ![Snake animation](https://github.com/Massinja/Massinja/blob/output/github-contribution-grid-snake.svg)
+Typescript is a lesser evil that I am willing to try.
+
+<div align="center">
+    <img width="100%" src="https://github.com/Massinja/Massinja/blob/output/github-contribution-grid-snake.svg">
 </div>
   
