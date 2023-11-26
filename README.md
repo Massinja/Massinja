@@ -40,3 +40,7 @@ Seems very promising to me. Future back end projects are coming!
 "Javascript is like vegetables, you have to eat them" - Gaetan Juvin  
 Check [bouncing_box](https://github.com/Massinja/bouncing_box)  
 Typescript is a lesser evil that I am willing to try. Projects are on their way!
+<div>
+    ![Snake animation](https://github.com/Massinja/Massinja/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
