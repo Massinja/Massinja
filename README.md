@@ -1,7 +1,13 @@
-#  Hello! Let's give this a try!
-I am working my way into programming.  
+## Hello!
 
-## My projects and first impressions about programming laguages:  
+It's May 2026. Ever since I joined GitHub five years ago, a lot has changed. I haven't become a great coder, and it doesn't seem as necessary anymore - most people are vibe coding their way through tech. 
+
+Luckily, over a year ago, I found a niche that I've grown comfortable in: I am working as a PostgreSQL Database Administrator. The role is versatile and attracts me in its constant need to investigate things and learn. Nothing is more interesting than playing an educated detective 🕵🏻‍♀️
+
+I am resuming my activity, as I want to bring some life into my blog https://elviie.com/ 
+
+The following almost feels like written in a different era - BC. And that's not Before Christ, but Before Claude :D
+## My old projects and first old impressions about programming languages:
 
 ### Bash   
 Almighty!
