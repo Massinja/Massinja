@@ -1,10 +1,9 @@
 ## Hello!
 
-It's May 2026. Ever since I joined GitHub five years ago, a lot has changed. I haven't become a great coder, and it doesn't seem as necessary anymore - most people are vibe coding their way through tech. 
+I work as a PostgreSQL Database Administrator and, unfortunately, I don't get to write a lot of code.
+Although, my role is super versatile and attracts me in its constant need to investigate things and learn. Nothing is more interesting than playing an educated detective 🕵🏻‍♀️
 
-Luckily, over a year ago, I found a niche that I've grown comfortable in: I am working as a PostgreSQL Database Administrator. The role is versatile and attracts me in its constant need to investigate things and learn. Nothing is more interesting than playing an educated detective 🕵🏻‍♀️
-
-I am resuming my activity, as I want to bring some life into my blog https://elviie.com/ 
+Hoping to bring some life into my blog https://elviie.com/ 
 
 The following almost feels like written in a different era - BC. And that's not Before Christ, but Before Claude :D
 ## My old projects and first old impressions about programming languages:
